@@ -1,5 +1,3 @@
-
-
 let users = [ {
     id:1,
     name: "John",
@@ -91,8 +89,6 @@ let dey = 0
  console.log(work[3].banvor);
 },2400)
 
-
-
 const group1 =[]
 const group2 =[]
 
@@ -111,9 +107,4 @@ return Math.floor(Math.random()*101);
 
 }
 console.log(random());
-
-
-
-
 console.log(typeof alert);
-
